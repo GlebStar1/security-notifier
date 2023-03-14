@@ -1,0 +1,102 @@
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\obj\Debug\net7.0\SecurityNotifier.csproj.AssemblyReference.cache
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\obj\Debug\net7.0\SecurityNotifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\obj\Debug\net7.0\SecurityNotifier.AssemblyInfoInputs.cache
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\obj\Debug\net7.0\SecurityNotifier.AssemblyInfo.cs
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\obj\Debug\net7.0\SecurityNotifier.csproj.CoreCompileInputs.cache
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\SecurityNotifier.exe
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\appsettings.json
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\SecurityNotifier.deps.json
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\SecurityNotifier.runtimeconfig.json
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\SecurityNotifier.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\SecurityNotifier.pdb
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\Azure.Core.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\Azure.Identity.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Graph.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Graph.Core.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Kiota.Abstractions.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Kiota.Authentication.Azure.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Kiota.Http.HttpClientLibrary.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Kiota.Serialization.Form.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Kiota.Serialization.Json.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Kiota.Serialization.Text.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\Tavis.UriTemplates.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\obj\Debug\net7.0\SecurityNotifier.csproj.CopyComplete
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\obj\Debug\net7.0\SecurityNotifier.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\obj\Debug\net7.0\refint\SecurityNotifier.dll
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\obj\Debug\net7.0\SecurityNotifier.pdb
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\obj\Debug\net7.0\SecurityNotifier.genruntimeconfig.cache
+C:\Development\Practise\SecurityNotifier\SecurityNotifier\obj\Debug\net7.0\ref\SecurityNotifier.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\SecurityNotifier.exe
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\appsettings.json
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\SecurityNotifier.deps.json
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\SecurityNotifier.runtimeconfig.json
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\SecurityNotifier.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\SecurityNotifier.pdb
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\Azure.Core.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\Azure.Identity.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Graph.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Graph.Core.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Kiota.Abstractions.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Kiota.Authentication.Azure.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Kiota.Http.HttpClientLibrary.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Kiota.Serialization.Form.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Kiota.Serialization.Json.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\Microsoft.Kiota.Serialization.Text.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\Tavis.UriTemplates.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\obj\Debug\net7.0\SecurityNotifier.csproj.AssemblyReference.cache
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\obj\Debug\net7.0\SecurityNotifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\obj\Debug\net7.0\SecurityNotifier.AssemblyInfoInputs.cache
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\obj\Debug\net7.0\SecurityNotifier.AssemblyInfo.cs
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\obj\Debug\net7.0\SecurityNotifier.csproj.CoreCompileInputs.cache
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\obj\Debug\net7.0\SecurityNotifier.csproj.CopyComplete
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\obj\Debug\net7.0\SecurityNotifier.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\obj\Debug\net7.0\refint\SecurityNotifier.dll
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\obj\Debug\net7.0\SecurityNotifier.pdb
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\obj\Debug\net7.0\SecurityNotifier.genruntimeconfig.cache
+C:\Development\Practise\Microsoft graph\security-notifier\SecurityNotifier\obj\Debug\net7.0\ref\SecurityNotifier.dll
